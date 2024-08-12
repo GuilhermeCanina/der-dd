@@ -1,3 +1,6 @@
+<img src="Engenharia.jpg"
+alt="Imagem Diagrama Engenharia" />
+
 ### Tabela de dados Engenharia 
 | Entidade | Atributo | Tipo | Tamanho | Descrição |
 |----------|----------|------|---------|-----------|
